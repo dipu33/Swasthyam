@@ -1,0 +1,19 @@
+#ins_record{
+    display: none;
+    position: relative;
+    top: 20%;
+    left: 10%;
+}
+#delete_record{
+    display: none;
+}
+#display_record{
+    background-color: #EBEBEB;
+    display: none;
+}
+#update_record{
+    display: none;
+}
+th,tr,td,table{
+    border: 2px solid black;
+}
